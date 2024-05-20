@@ -6,6 +6,12 @@ Retrieval-Augmented Generation (RAG) is a technique that combines a retriever an
 Figure: A schematic representation of RAG with a retriever and an LLM
 
 Notes:
+## My Llama v0.2 Updated Colab Notebook
+[https://colab.research.google.com/drive/1lq8oPLcHlWMIpPuHp4wO3gtxMHEy3e2c?usp=sharing](https://colab.research.google.com/drive/1lq8oPLcHlWMIpPuHp4wO3gtxMHEy3e2c?usp=sharing)
+
+## Vectorstore? Embedding?
+Can think of Vectorstore as the "database", embedding as "indexing" data in the database.
+Embedding requires a trained model that helps you do so. In the shared colab notebook, we used the embedding models provided in HuggingFaceEmbeddings
 
 ## Alternative retrievers:
 Vectorstore might not be suitable if the context is incredibly huge. Can try an alternative below
