@@ -12,3 +12,7 @@ Notes:
 (From [https://stackoverflow.com/questions/77352474/langchain-how-to-get-complete-prompt-retrievalqa-from-chain-type](https://stackoverflow.com/questions/77352474/langchain-how-to-get-complete-prompt-retrievalqa-from-chain-type))
 
 [RAG_with_Lama_2_and_LangChain.ipynb](RAG_with_Lama_2_and_LangChain.ipynb) contains an example where ChromaDb was used to create a Vector Store.
+
+Prompt templates:
+
+[https://gpus.llm-utils.org/llama-2-prompt-template/](https://gpus.llm-utils.org/llama-2-prompt-template/)
