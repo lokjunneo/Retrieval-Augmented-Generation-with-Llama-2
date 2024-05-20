@@ -7,7 +7,7 @@ Figure: A schematic representation of RAG with a retriever and an LLM
 
 Notes:
 
-## Alternative retrievals:
+## Alternative retrievers:
 Vectorstore might not be suitable if the context is incredibly huge. Can try an alternative below
 [https://python.langchain.com/v0.1/docs/modules/data_connection/retrievers/](https://python.langchain.com/v0.1/docs/modules/data_connection/retrievers/)
 
