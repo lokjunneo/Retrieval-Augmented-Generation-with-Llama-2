@@ -7,14 +7,19 @@ Figure: A schematic representation of RAG with a retriever and an LLM
 
 Notes:
 
+## Alternative retrievals:
+Vectorstore might not be suitable if the context is incredibly huge. Can try an alternative below
+[https://python.langchain.com/v0.1/docs/modules/data_connection/retrievers/](https://python.langchain.com/v0.1/docs/modules/data_connection/retrievers/)
+
+## Prompt templates:
+[https://gpus.llm-utils.org/llama-2-prompt-template/](https://gpus.llm-utils.org/llama-2-prompt-template/)
+
+## Using ChromaDB for Vectorstore
+[RAG_with_Lama_2_and_LangChain.ipynb](RAG_with_Lama_2_and_LangChain.ipynb) contains an example where ChromaDb was used to create a Vector Store.
+
+
 RetrievalQA is deprecated by still describes some useful concepts:
 
 ![image](https://github.com/lokjunneo/Retrieval-Augmented-Generation-with-Llama-2/assets/44422169/69593687-efb8-4323-b3b0-0e84b9cdc8d8)
 
 (From [https://stackoverflow.com/questions/77352474/langchain-how-to-get-complete-prompt-retrievalqa-from-chain-type](https://stackoverflow.com/questions/77352474/langchain-how-to-get-complete-prompt-retrievalqa-from-chain-type))
-
-[RAG_with_Lama_2_and_LangChain.ipynb](RAG_with_Lama_2_and_LangChain.ipynb) contains an example where ChromaDb was used to create a Vector Store.
-
-Prompt templates:
-
-[https://gpus.llm-utils.org/llama-2-prompt-template/](https://gpus.llm-utils.org/llama-2-prompt-template/)
