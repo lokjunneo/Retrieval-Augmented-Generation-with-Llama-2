@@ -7,4 +7,4 @@ Figure: A schematic representation of RAG with a retriever and an LLM
 
 ![image](https://github.com/lokjunneo/Retrieval-Augmented-Generation-with-Llama-2/assets/44422169/69593687-efb8-4323-b3b0-0e84b9cdc8d8)
 
-
+(From [https://stackoverflow.com/questions/77352474/langchain-how-to-get-complete-prompt-retrievalqa-from-chain-type](https://stackoverflow.com/questions/77352474/langchain-how-to-get-complete-prompt-retrievalqa-from-chain-type))
