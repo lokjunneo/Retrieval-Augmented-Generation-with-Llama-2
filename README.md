@@ -16,7 +16,7 @@ Can think of Vectorstore as the "database", embedding as "indexing" data in the 
 Embedding requires a trained model that helps you do so. In the shared colab notebook, we used the embedding models provided in HuggingFaceEmbeddings
 
 ## Alternative retrievers:
-Vectorstore might not be suitable if the context is incredibly huge. Can try an alternative below
+There are other Advanced Retrieval Types that can be used. Take a look at the "When to use" column.
 [https://python.langchain.com/v0.1/docs/modules/data_connection/retrievers/](https://python.langchain.com/v0.1/docs/modules/data_connection/retrievers/)
 
 ## Prompt templates:
