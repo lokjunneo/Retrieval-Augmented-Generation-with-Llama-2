@@ -17,7 +17,7 @@ Embedding requires a trained model that helps you do so. In the shared colab not
 
 ## Alternative retrievers:
 There are other Advanced Retrieval Types that can be used. Take a look at the "When to use" column.
-[https://python.langchain.com/v0.1/docs/modules/data_connection/retrievers/](https://python.langchain.com/v0.1/docs/modules/data_connection/retrievers/)
+[https://python.langchain.com/v0.2/docs/concepts/#retrieval](https://python.langchain.com/v0.2/docs/concepts/#retrieval)
 
 ## Prompt templates:
 [https://gpus.llm-utils.org/llama-2-prompt-template/](https://gpus.llm-utils.org/llama-2-prompt-template/)
