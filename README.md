@@ -9,6 +9,8 @@ Notes:
 ## My Llama v0.2 Updated Colab Notebook
 [https://colab.research.google.com/drive/1lq8oPLcHlWMIpPuHp4wO3gtxMHEy3e2c?usp=sharing](https://colab.research.google.com/drive/1lq8oPLcHlWMIpPuHp4wO3gtxMHEy3e2c?usp=sharing)
 
+The colab notebook is adapted from [the upstream repo by muntasirhsn](https://github.com/muntasirhsn/Retrieval-Augmented-Generation-with-Llama-2). It is updated for Llama v0.2 and the output for the models are formatted as well. 
+
 ## Vectorstore? Embedding?
 Can think of Vectorstore as the "database", embedding as "indexing" data in the database.
 Embedding requires a trained model that helps you do so. In the shared colab notebook, we used the embedding models provided in HuggingFaceEmbeddings
